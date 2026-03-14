@@ -4,7 +4,7 @@
 
 This project implements the **Widmark Formula**, a mathematical model used to estimate Blood Alcohol Content (BAC) based on various factors such as body mass, gender, amount of alcohol consumed, and time elapsed.
 
-## About this Project 🚀
+## About this Project
 
 This is another of my initial projects as I learn to code. I decided to implement this formula to practice how mathematical models can be translated into Python code and how variables like gender and metabolism significantly affect the results. It's a simple but practical exercise in data visualization and modeling.
 
